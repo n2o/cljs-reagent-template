@@ -1,6 +1,6 @@
 # Template to create a ClojureScript + Reagent + shadow-cljs project
 
-This project creates a fully functional ClojureScript project for you, using the
+lalalaThis project creates a fully functional ClojureScript project for you, using the
 stack of ClojureScript, reagent and shadow-cljs. CSS is built using tailwindcss.
 
 ## Installation
